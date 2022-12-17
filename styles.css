@@ -1,11 +1,13 @@
 #btn{
     background: black;
     color: white;
-    border: 5px none;
+    border: none;
+    border-radius: 5px;
 }
 
 #btn:hover{
     background: yellow;
     color: black;
-    border: 30px none;
+    border: none;
+    border-radius: 30px;
 }
